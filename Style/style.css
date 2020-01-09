@@ -1,0 +1,13 @@
+h1 {
+    color:red;
+}
+p {
+    color:blueviolet;
+}
+.pit {
+    color:darkblue;
+    font-size:20px;
+}
+.contain {
+    border:5px solid black;
+}
